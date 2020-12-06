@@ -1,5 +1,5 @@
 # AOC 2020
-My solutions of [Advent of Code 2020](https://adventofcode.com) in Rust with the help of [cargo-aoc](https://github.com/gobanos/cargo-aoc)
+My solutions of [Advent of Code 2020](https://adventofcode.com) in Rust with the help of [cargo-aoc](https://github.com/gobanos/cargo-aoc).
 # Progress
 - [x] Day 1
 - [x] Day 2
